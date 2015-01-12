@@ -45,6 +45,7 @@ public class SampleController {
     }
 
     public static void main(String[] args) throws Exception {
+        System.out.println("============ " + System.getenv("PORT"));
         SpringApplication.run(SampleController.class, args);
     }
 }
