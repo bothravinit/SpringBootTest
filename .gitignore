@@ -1,0 +1,14 @@
+*/.idea/*
+*.project
+*.classpath
+*.settings/
+
+*target
+
+WebContent/*
+/target
+*.DS_Store
+*.idea
+*.iml
+*.iws
+gep-itemwrapper-api/.gitignore
