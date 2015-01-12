@@ -51,10 +51,10 @@ public class SampleController {
     }
 
     static{
-        Map<String, String> env = new HashMap<String, String>();
-        env.put("server.port",System.getenv("PORT"));
-
-        setEnv(env);
+//        Map<String, String> env = new HashMap<String, String>();
+//        env.put("server.port",System.getenv("PORT"));
+//
+//        setEnv(env);
     }
 
     @SuppressWarnings({ "unchecked", "rawtypes" })

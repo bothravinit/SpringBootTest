@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* SampleController -Dserver.port=$PORT
+web:    java -Dserver.port=$PORT -cp target/classes:target/dependency/* SampleController
