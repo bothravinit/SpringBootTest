@@ -1,6 +1,6 @@
 import com.demo.Product;
 import com.demo.ProductResponse;
-import hello.entities.BaseResponse;
+import com.demo.entities.BaseResponse;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.stereotype.Controller;

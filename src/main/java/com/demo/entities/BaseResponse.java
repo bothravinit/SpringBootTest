@@ -1,4 +1,4 @@
-package hello.entities;
+package com.demo.entities;
 
 /**
  * Author : vinit.bothra
